@@ -1,8 +1,40 @@
-body,h1 {font-family: "Raleway", sans-serif}
-body, html {height: 100%}
-.bgimg {
-  background-image: url('');
-  min-height: 100%;
-  background-position: center;
-  background-size: cover;
+h1{
+  text-align: center;
+  color: #6B91C9 ;
+  font-size: 58px;
+  background-color:#000000 ;
+  margin:70px;
+  padding:15px;
 }
+
+h3{
+background-color:#FFFFFF ;
+  margin 50px;
+  padding:20px;
+  text-align: center;
+  color:#0318F7  ;   
+}
+
+h2{
+    text-align: center;
+  margin:20px;
+  padding:5px;
+  font-size: 40px;
+  background-color:#FFFFFF;
+  color: #6B91C9;
+ }
+
+  p{
+     text-align: center;
+     padding:15px;
+    color: #000000;
+}
+
+.center{
+display: block;
+margin-left: auto;
+margin-right: auto;
+  width: 50%;
+}
+
+  
